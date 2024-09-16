@@ -1,5 +1,4 @@
-# benfish404.github.io
-
+# Ben Fisher
 
 
 
@@ -14,11 +13,10 @@
             flex-direction: row;
             justify-content: center;
             align-items: center;
-            row-gap: 10px;
+            gap: 16px;
         }
 
     </style>
-
 
     <p align="center">
         My Social Media:
