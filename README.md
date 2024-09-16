@@ -28,14 +28,14 @@
         }
 
         .content {
-            justify-content: space-around;
+            justify-content: center;
             align-items: center;
             display: flex;
             flex-direction: row;
         }
 
         .box {
-            width: 73%;
+            width: 100%;
             height: 25%;
             padding: 5px;
         }
