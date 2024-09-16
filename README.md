@@ -10,9 +10,6 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" 
@@ -28,8 +25,6 @@
             justify-content: center;
             display: flex;
             height: 10vh;
-            background-color: rgb(85, 123, 1);
-            color: white;
         }
 
         .content {
@@ -56,12 +51,11 @@
     
     <div class="content">
         <div class="box">
-            <img src="https://github.com/user-attachments/assets/27ac6f0b-36e0-497b-bf2c-e4469014cbe9" style="width: 80%">
+            <a href="www.linkedin.com/in/benfisher-ns"><img src="https://github.com/user-attachments/assets/27ac6f0b-36e0-497b-bf2c-e4469014cbe9" alt="My LinkedIn" style="width:48px;"></a>
         </div>
         <div class="box">
-            <img src="https://github.com/user-attachments/assets/44e7a419-f123-4879-ac20-9e996becbbe0" style="width: 80%">
+            <a href="www.linkedin.com/in/benfisher-ns"><img src="https://github.com/user-attachments/assets/44e7a419-f123-4879-ac20-9e996becbbe0" alt="My X/Twitter" style="width:48px;"></a>
         </div>
     </div>
 </body>
 
-</html>
